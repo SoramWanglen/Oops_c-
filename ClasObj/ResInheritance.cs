@@ -6,24 +6,24 @@ namespace Restaurant
     {
     class Pecos
     {
-        public string star = "**";
+        public string Star = "**";
 
-        public void chef()
+        public void Chef()
         {
             Console.WriteLine("all the chefs are promising!");
         }
     }
     class Barbeque : Pecos
     {
-        public string address = "Koramangala";
+        public string Address = "Koramangala";
     }
     class ResInheritance
     {
-        static void main(string[] args)
+        static void Main(string[] args)
         {
             Barbeque berbeque = new Barbeque();
-            berbeque.chef();
-            Console.WriteLine("pecos is " + berbeque.star + " is located at" + berbeque.address);
+            berbeque.Chef();
+            Console.WriteLine("pecos is " + berbeque.Star + " is located at" + berbeque.Address);
 
         }
     }

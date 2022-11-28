@@ -2,12 +2,12 @@
 
 namespace Restaurant
 {
-    class ResClaObj
+    class Program
     {
         string name = "abc";
         static void Main(string[] args)
         {
-            ResClaObj rest = new ResClaObj();
+            Program rest = new Program();
             rest.name = "pecos";
             Console.WriteLine(rest.name);
         }
