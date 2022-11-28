@@ -1,0 +1,13 @@
+C:\Users\SoramWanglen\source\repos\ClasObj\ClasObj\bin\Debug\netcoreapp3.1\ClasObj.exe
+C:\Users\SoramWanglen\source\repos\ClasObj\ClasObj\bin\Debug\netcoreapp3.1\ClasObj.deps.json
+C:\Users\SoramWanglen\source\repos\ClasObj\ClasObj\bin\Debug\netcoreapp3.1\ClasObj.runtimeconfig.json
+C:\Users\SoramWanglen\source\repos\ClasObj\ClasObj\bin\Debug\netcoreapp3.1\ClasObj.runtimeconfig.dev.json
+C:\Users\SoramWanglen\source\repos\ClasObj\ClasObj\bin\Debug\netcoreapp3.1\ClasObj.dll
+C:\Users\SoramWanglen\source\repos\ClasObj\ClasObj\bin\Debug\netcoreapp3.1\ClasObj.pdb
+C:\Users\SoramWanglen\source\repos\ClasObj\ClasObj\obj\Debug\netcoreapp3.1\ClasObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoramWanglen\source\repos\ClasObj\ClasObj\obj\Debug\netcoreapp3.1\ClasObj.AssemblyInfoInputs.cache
+C:\Users\SoramWanglen\source\repos\ClasObj\ClasObj\obj\Debug\netcoreapp3.1\ClasObj.AssemblyInfo.cs
+C:\Users\SoramWanglen\source\repos\ClasObj\ClasObj\obj\Debug\netcoreapp3.1\ClasObj.csproj.CoreCompileInputs.cache
+C:\Users\SoramWanglen\source\repos\ClasObj\ClasObj\obj\Debug\netcoreapp3.1\ClasObj.dll
+C:\Users\SoramWanglen\source\repos\ClasObj\ClasObj\obj\Debug\netcoreapp3.1\ClasObj.pdb
+C:\Users\SoramWanglen\source\repos\ClasObj\ClasObj\obj\Debug\netcoreapp3.1\ClasObj.genruntimeconfig.cache
